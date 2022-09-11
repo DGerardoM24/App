@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
           title: Text('AppMazahua'),
         ),
         body: Center(
-          child: Text('Login AppMazahua'),
+          child: Text('Login AppMazahua Next'),
         ),
       ),
     );
